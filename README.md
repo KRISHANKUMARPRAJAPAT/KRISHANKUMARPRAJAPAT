@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
-<h3 align="center">A passionate Data Science Intern from India</h3>
+<h3 align="center">A passionate Data Science Intern</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankumarprajapat&label=Profile%20views&color=0e75b6&style=flat" alt="krishankumarprajapat" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Ml-Project**
 
-- 🌱 I’m currently learning **DSA, Deep Learning, Generative AI**
+- 🌱 I’m currently learning **Data Science &  Analytics, Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KRISHANKUMARPRAJAPAT/Ai_Learnings-by-Krishan-kumar](https://github.com/KRISHANKUMARPRAJAPAT/Ai_Learnings-by-Krishan-kumar)
+- 👨‍💻 All of my projects are available at [https://github.com/KRISHANKUMARPRAJAPAT/Ai_Learnings-with-Krishan-kumar](https://github.com/KRISHANKUMARPRAJAPAT/Ai_Learnings-with-Krishan-kumar)
 
-- 📝 I regularly write articles on [Machine learning and DSA](Machine learning and DSA)
+- 📝 I regularly write articles on [Machine learning and Data Analytics]
 
-- 💬 Ask me about **Machine Learning, DSA**
+- 💬 Ask me about **Machine Learning, Data Science**
 
 - 📫 How to reach me **krishnakumarprajapat366@gmail.com**
 
