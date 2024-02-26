@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Data Analytics & Science, Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KRISHANKUMARPRAJAPAT/Ai_Learnings-with-Krishan-kumar](https://github.com/KRISHANKUMARPRAJAPAT/Ai_Learnings-with-Krishan-kumar)
-
 - 📝 I regularly write articles on [Data Analytics]
 
 - 💬 Ask me about **Machine Learning, Data Analytics**
