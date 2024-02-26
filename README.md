@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ml-Project**
+- 🔭 I’m currently working on **Excel Reports**   
 
-- 🌱 I’m currently learning **Data Science &  Analytics, Generative AI**
+- 🌱 I’m currently learning **Data Analytics & Science, Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KRISHANKUMARPRAJAPAT/Ai_Learnings-with-Krishan-kumar](https://github.com/KRISHANKUMARPRAJAPAT/Ai_Learnings-with-Krishan-kumar)
 
-- 📝 I regularly write articles on [Machine learning and Data Analytics]
+- 📝 I regularly write articles on [Data Analytics]
 
-- 💬 Ask me about **Machine Learning, Data Science**
+- 💬 Ask me about **Machine Learning, Data Analytics**
 
 - 📫 How to reach me **krishnakumarprajapat366@gmail.com**
 
