@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## Projects
 
 - [Business Insights 360](https://github.com/KRISHANKUMARPRAJAPAT/Business-Insight-360-): An analysis project providing comprehensive insights into business operations.
-- [Hospitality Analysis](): Analyzed data to optimize operations and improve guest experience in the hospitality sector.
+- [Hospitality Analysis](https://github.com/KRISHANKUMARPRAJAPAT/Hospitality-Analysis): Analyzed data to optimize operations and improve guest experience in the hospitality sector.
 
 ## Let's Connect!
 
