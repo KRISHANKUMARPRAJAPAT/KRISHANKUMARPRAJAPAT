@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-kumar-451002262/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)](https://codebasics.io/portfolio/Krishna-kumar-prajapat)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krishnakkumarprajapat366@gmail.com)
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
