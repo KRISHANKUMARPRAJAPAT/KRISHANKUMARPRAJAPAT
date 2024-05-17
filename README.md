@@ -16,7 +16,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+- ![canva logo](https://github.com/KRISHANKUMARPRAJAPAT/KRISHANKUMARPRAJAPAT/assets/122435688/0d53e154-8b14-4a5b-bfd3-457fd36af3e3)
+
 
 
 ## Projects
